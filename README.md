@@ -1,3 +1,3 @@
 # Learning Collection Of RPA
-## This files are created by UiPath.
-### UiPath is a RPA Tool.
+## This projects are created by UiPath for use in robotic process.
+### ※UiPath is a RPA Tool.
