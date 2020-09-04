@@ -1,1 +1,1 @@
-This is a guessing number game based on Flowcharts.
+This is a guessing number game based on State Machines.

@@ -1,6 +1,6 @@
 {
-  "name": "HelloWorld",
-  "description": "Blank Process",
+  "name": "GuessingGame",
+  "description": "空のプロジェクト",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.0-preview]",
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.6.0.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
